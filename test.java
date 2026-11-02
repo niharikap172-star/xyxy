@@ -1,3 +1,3 @@
-class test.java{
+class test{
   print("hi")
 }
